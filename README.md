@@ -35,12 +35,12 @@
 ---
 
 ## 🧠 LeetCode Stats
-[![LeetCode user Sumit Raturi](https://leetcard.jacoblin.cool/sumitraturi?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/THEDARKLORDLOVESAPPLES/)
+[![LeetCode user Sumit Raturi](https://leetcard.jacoblin.cool/THEDARKLORDLOVESAPPLES?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/THEDARKLORDLOVESAPPLES/)
 
 ---
 
 ## 📂 Featured Projects
-- 🔗 **[Linktree Clone](https://github.com/samOhawk1/linktree)** (Responsive web project)
+- 🔗 **[Linktree Clone](https://github.com/samOhawk1/linktree)** (Responsive web project)=
 - 📔 **Digital Diary Web App** (Node.js + Firebase)  
 - 📈 **Stock Price Prediction** (ML | Deep Learning)  
 - 🛒 **Sentiment Analysis on Amazon Reviews**
