@@ -35,7 +35,7 @@
 ---
 
 ## 🧠 LeetCode Stats
-[![LeetCode user Sumit Raturi](https://leetcard.jacoblin.cool/sumitraturi?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/sumitraturi/)
+[![LeetCode user Sumit Raturi](https://leetcard.jacoblin.cool/sumitraturi?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/THEDARKLORDLOVESAPPLES/)
 
 ---
 
