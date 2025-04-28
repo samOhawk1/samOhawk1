@@ -48,8 +48,8 @@
 ---
 
 ## 🏆 Certifications
-- ✅ Android Mobile Application Development – *SWAYAM*
-- ✅ Image Processing using Python – *SWAYAM*
+- ✅ Android Mobile Application Development – *NPTEL*
+- ✅ Image Processing using Python – *NPTEL*
 - ✅ Full Stack Web Development – *100X Devs*
 
 ---
