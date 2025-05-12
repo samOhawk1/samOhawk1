@@ -1,64 +1,41 @@
-# 👋 Hi there, I'm Sumit Raturi
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Chief+Innovation+Alchemist;Orchestrating+Paradigm-Shifting+Full-Stack+Symphonies;Powered+by+%E2%9A%9B%EF%B8%8F+%2B+%E2%98%95&font=Fira%20Code&center=true&width=440&height=45&color=6CC644&vCenter=true" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-raturi-85a284250)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samOhawk1)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitraturi101@gmail.com)
+<h3 align="center">Navigating the Digital Cosmos, One Refactor at a Time</h3>
 
----
+<p align="center">
+  Evangelizing hyper-convergent, cloud-native solutions with a sprinkle of AI-powered cognitive load reduction. My commit history is a testament to bleeding-edge agility and a relentless pursuit of the next shiny object.
+</p>
 
-## 🚀 About Me
-- 🎓 B.Tech CSE Student at **Graphic Era University**
-- 👨‍💻 I love **Problem Solving**, **Backend Development**, and **Testing**.
-- 🌱 Currently **exploring Spring Boot** and building full-stack applications.
-- 🔭 Passionate about developing scalable and efficient systems and **machine learning**.
-- ✨ Enthusiastic about learning **new tech stacks** and contributing to open-source.
-
----
-
-## 🛠️ Technical Skills
-**Languages:**  
-`Python` | `C/C++` | `Java` | `JavaScript` | `SQL`
-
-**Frameworks & Tools:**  
-`Spring Boot` | `Node.js` | `Express.js` | `TestNG` | `Firebase` | `VS Code` | `IntelliJ`
-
-**Machine Learning:**  
-`Keras` | `Scikit-learn` | `Librosa`
+<p align="center">
+  <strong>Warning: May spontaneously refactor for 'performance gains'.</strong>
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=samOhawk1&show_icons=true&theme=radical)
+### Currently Contemplating the Mysteries Of:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samOhawk1&layout=compact&theme=radical)
+* ⚛️ Containerized Existentialism (with a hint of Dockerfile divination)
+* ☁️ The AWS Elasticity Singularity (and hoping my bill doesn't achieve it first)
+* ✨ Reactive Flux Capacitors (powered by the magic of `useState` and `useEffect`)
+* 🎼 Orchestrating Serverless Symphonies (before the Lambdas revolt)
+* 🚧 The Subtle Art of Not Breaking Production (while experimenting with new React hooks)
+* 💰 Cloud Cost Optimization (the real endgame)
 
----
+### Future Ambitions:
 
-## 🧠 LeetCode Stats
-[![LeetCode user Sumit Raturi](https://leetcard.jacoblin.cool/THEDARKLORDLOVESAPPLES?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/THEDARKLORDLOVESAPPLES/)
-
----
-
-## 📂 Featured Projects
-- 🔗 **[Linktree Clone](https://github.com/samOhawk1/linktree)** (Responsive web project)=
-- 📔 **Digital Diary Web App** (Node.js + Firebase)  
-- 📈 **Stock Price Prediction** (ML | Deep Learning)  
-- 🛒 **Sentiment Analysis on Amazon Reviews**
+> If 'serverless spaghetti' ever becomes an architectural best practice, I'll finally understand Terraform.
 
 ---
 
-## 🏆 Certifications
-- ✅ Android Mobile Application Development – *NPTEL*
-- ✅ Image Processing using Python – *NPTEL*
-- ✅ Full Stack Web Development – *100X Devs*
+### LeetCode Adventures 🚀
+
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/[YOUR_LEETCODE_USERNAME])](https://leetcode.com/[YOUR_LEETCODE_USERNAME])
+
+> Just trying to keep my algorithmic muscles flexed. Sometimes the solutions are elegant; other times, it feels like I'm wrestling a digital kraken.
 
 ---
 
-## 🤝 Let's Connect!
-- 📧 Email: [sumitraturi101@gmail.com](mailto:sumitraturi101@gmail.com)
-- 🌐 LinkedIn: [Sumit Raturi](https://www.linkedin.com/in/sumit-raturi-85a284250)
-
----
-
-*Thank you for visiting! Keep learning, keep building 🚀.*
-
+### Technologies I Speak Fluently (and Some I'm Still Conversing With):
