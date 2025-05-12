@@ -10,32 +10,50 @@
 </p>
 
 <p align="center">
-  <strong>Warning: May spontaneously refactor for 'performance gains'.</strong>
+  <strong>⚠️ Warning: May spontaneously refactor your code “for performance gains.” Results may vary.</strong>
 </p>
 
 ---
 
-### Currently Contemplating the Mysteries Of:
+### 🧠 Currently Contemplating the Mysteries Of:
 
-* ⚛️ Containerized Existentialism (with a hint of Dockerfile divination)
-* ☁️ The AWS Elasticity Singularity (and hoping my bill doesn't achieve it first)
-* ✨ Reactive Flux Capacitors (powered by the magic of `useState` and `useEffect`)
-* 🎼 Orchestrating Serverless Symphonies (before the Lambdas revolt)
-* 🚧 The Subtle Art of Not Breaking Production (while experimenting with new React hooks)
-* 💰 Cloud Cost Optimization (the real endgame)
-
-### Future Ambitions:
-
-> If 'serverless spaghetti' ever becomes an architectural best practice, I'll finally understand Terraform.
+* ⚛️ *Containerized Existentialism* (with a hint of Dockerfile divination)
+* ☁️ *The AWS Elasticity Singularity* (and praying my free tier survives it)
+* ✨ *Reactive Flux Capacitors* (powered by `useState`, `useEffect`, and occasional desperation)
+* 🎼 *Orchestrating Serverless Symphonies* (before the Lambdas unionize)
+* 🚧 *The Subtle Art of Not Breaking Production* (while chasing the thrill of `yarn add`)
+* 💰 *Cloud Cost Optimization* (a.k.a. budgeting with tears)
 
 ---
 
-### LeetCode Adventures 🚀
+### 🌟 Future Ambitions:
 
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/[YOUR_LEETCODE_USERNAME])](https://leetcode.com/[YOUR_LEETCODE_USERNAME])
-
-> Just trying to keep my algorithmic muscles flexed. Sometimes the solutions are elegant; other times, it feels like I'm wrestling a digital kraken.
+> If "serverless spaghetti" ever becomes an architectural best practice, I'll finally understand Terraform.  
+> Until then, expect elegant hacks, caffeine-fueled fixes, and Stack Overflow bookmarks.
 
 ---
 
-### Technologies I Speak Fluently (and Some I'm Still Conversing With):
+### 🧰 Technologies I Speak Fluently  
+*(and some I chat with awkwardly but we're getting there)*
+
+```plaintext
+Frontend:         React ⚛️, JavaScript ☕, HTML 🧱, CSS 💅  
+Backend:          Spring Boot 🌱, Java ☕  
+Containerization: Docker 🐳  
+Cloud:            AWS ☁️ (Reluctantly Becoming Fluent)  
+Tools:            Git 🔧 (a.k.a. the time machine)
+
+---
+
+## 🧠 LeetCode Stats
+[![LeetCode user Sumit Raturi](https://leetcard.jacoblin.cool/THEDARKLORDLOVESAPPLES?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/THEDARKLORDLOVESAPPLES/)
+
+---
+
+---
+
+## 🏆 Certifications
+- ✅ Android Mobile Application Development – *NPTEL*
+- ✅ Image Processing using Python – *NPTEL*
+- ✅ Full Stack Web Development – *100X Devs*
+
