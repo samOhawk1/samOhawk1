@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Chief+Innovation+Alchemist;Paradigm-Shifting+Full-Stack+Symphonies;Powered+by+%E2%9A%9B%EF%B8%8F+%2B+%E2%98%95&font=Fira%20Code&center=true&width=440&height=45&color=6CC644&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Chief+Innovation+Alchemist;Full-Stack+Symphonies;Powered+by+%E2%9A%9B%EF%B8%8F+%2B+%E2%98%95&font=Fira%20Code&center=true&width=440&height=45&color=6CC644&vCenter=true" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Navigating the Digital Cosmos, One Refactor at a Time</h3>
@@ -47,8 +47,6 @@ Tools:            Git 🔧 (a.k.a. the time machine)
 
 ## 🧠 LeetCode Stats
 [![LeetCode user Sumit Raturi](https://leetcard.jacoblin.cool/THEDARKLORDLOVESAPPLES?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/u/THEDARKLORDLOVESAPPLES/)
-
----
 
 ---
 
