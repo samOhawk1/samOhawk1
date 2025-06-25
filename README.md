@@ -1,51 +1,51 @@
-<br/>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Alchemist;Full-Stack+Symphonies;Powered+by+%E2%9A%9B%EF%B8%8F+%2B+%E2%98%95&font=Fira%20Code&center=true&width=440&height=45&color=6CC644&vCenter=true" alt="Typing SVG" />
-</p>
-
-<h3 align="center">Navigating the Digital Cosmos, One Refactor at a Time</h3>
+---
 
 <p align="center">
-  Evangelizing hyper-convergent, cloud-native solutions with a sprinkle of AI-powered cognitive load reduction. My commit history is a testament to bleeding-edge agility and a relentless pursuit of the next shiny object.
+  <img src="https://media.giphy.com/media/QssGEmpkyEOh6/giphy.gif" width="250" height="250" alt="Coding GIF">
 </p>
 
 <p align="center">
-  <strong>⚠️ Warning: May spontaneously refactor your code “for performance gains.” Results may vary.</strong>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Alchemist;Full-Stack+Symphonies;Fueled+by+Code+%2B+Caffeine&font=Fira%20Code&center=true&width=500&height=45&color=6CC644&vCenter=true" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=6CC644" alt="Profile views" />
 </p>
 
 ---
 
-### 🧠 Currently Contemplating the Mysteries Of:
+<h3 align="center">⚙️ Code Meets Creativity</h3>
 
-* ⚛️ *Containerized Existentialism* (with a hint of Dockerfile divination)
-* ☁️ *The AWS Elasticity Singularity* (and praying my free tier survives it)
-* ✨ *Reactive Flux Capacitors* (powered by `useState`, `useEffect`, and occasional desperation)
-* 🎼 *Orchestrating Serverless Symphonies* (before the Lambdas unionize)
-  
----
+<p align="center">
+  I architect full-stack solutions that strike a balance between clean design and powerful functionality. Whether it's optimizing backend flows or crafting pixel-perfect interfaces, I believe in code that speaks.
+</p>
 
-### 🌟 Future Ambitions:
-
-> If "serverless spaghetti" ever becomes an architectural best practice, I'll finally understand Terraform.  
-> Until then, expect elegant hacks, caffeine-fueled fixes, and Stack Overflow bookmarks.
+<p align="center">
+  <strong>💡 Motto: “Refactor till it sings.”</strong>
+</p>
 
 ---
 
-### 🧰 Technologies I Speak Fluently  
-*(and some I chat with awkwardly but we're getting there)*
+## 🧠 Currently Exploring
 
-```plaintext
-Frontend:         React ⚛️, JavaScript ☕, HTML 🧱, CSS 💅  
-Backend:          Spring Boot 🌱, Java ☕  
-Containerization: Docker 🐳  
-Cloud:            AWS ☁️ (Reluctantly Becoming Fluent)  
-Tools:            Git 🔧 (a.k.a. the time machine)
-Languages:        C/C++, java, javascript, python, sql
+* 🧩 **Containerized Logic** with Docker
+* ⚛️ **Front-End State Sorcery** with React (hooks + context magic)
+* 🌱 **Spring Boot Micro-mastery** – REST, JPA, and caffeine-driven configs
+* 🧠 **Smarter Code, Cleaner Commits** – building thoughtful patterns with Go and Python
 
 ---
 
-## 🏆 Certifications
-- ✅ Android Mobile Application Development – *NPTEL*
-- ✅ Image Processing using Python – *NPTEL*
-- ✅ Full Stack Web Development – *100X Devs*
+## 🛠️ Tech Stack
 
+| Category    | Technologies                                       |
+| :---------- | :------------------------------------------------- |
+| **Languages** | Java ☕, JavaScript 📜, Python 🐍, C/C++ 💻, Go 🐹 |
+| **Frameworks** | React ⚛️, Spring Boot 🌱                            |
+| **Frontend** | HTML 🧱, CSS 💅                                  |
+| **Containers** | Docker 🐳                                          |
+| **Tools & VCS** | Git 🔧, GitHub 🖥️                                  |
+
+---
+
+Feel free to connect or explore my repositories! I'm always open to collaborating on interesting projects.
