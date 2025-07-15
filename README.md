@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sumit Raturi</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOh6/giphy.gif" width="100%" height="200">
-</div>
+
 
 <h3 align="center">🚀 Full-Stack Developer | Innovator | From India 🇮🇳</h3>
 
