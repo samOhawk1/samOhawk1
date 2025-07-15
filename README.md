@@ -1,81 +1,79 @@
-<h1 align="center">Hi there 👋, I'm Sumit Raturi</h1>
-
-
-<h3 align="center">🚀 Full-Stack Developer | Innovator | From India 🇮🇳</h3>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samOhawk1&label=Profile%20views&color=0e75b6&style=flat" alt="samOhawk1" />
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOh6/giphy.gif" alt="Coding GIF" width="100%" height="200">
 </p>
 
-<p align="left">
-  <a href="https://x.com/Sumit_0_hawk" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Sumit_0_hawk?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
-</p>
+<h1 align="center">Hey there! I'm Sumit Raturi 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer | Building Innovations from India 🇮🇳</h3>
 
 ---
-
-### About Me
-
-- 🌱 I'm currently expanding my expertise in **Docker, React,** and **Spring Boot Microservices**.
-- 🤝 I'm actively seeking opportunities to collaborate on impactful **Full-Stack Projects**.
-- 👨‍💻 Explore my work and contributions on [GitHub](https://github.com/samOhawk1).
-- 💬 Feel free to ask me about **Backend Architecture, React, Go,** or **Java**.
-- 📫 You can reach me directly at **sumitraturi02@gmail.com**.
-
----
-
-### Connect with me
-
-<p align="left">
-  <a href="https://x.com/Sumit_0_hawk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sumit-raturi-85a284250/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/iamsumitraturi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/u/THEDARKLORDLOVESAPPLES/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
----
-
-### My Philosophy: Code Meets Creativity
 
 <p align="center">
-  I specialize in architecting robust **full-stack solutions** that seamlessly blend clean design with powerful functionality. My approach emphasizes optimizing backend flows and crafting pixel-perfect interfaces, driven by a belief in code that is not just functional, but also elegant and efficient.
+  <img src="https://komarev.com/ghpvc/?username=samOhawk1&label=Profile%20views&color=blue&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <a href="https://x.com/Sumit_0_hawk" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+### About Me 
+<img align="right" alt="Developer Illustration" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🌱 Currently diving deeper into **Docker, React,** and **Spring Boot Microservices** to build scalable and efficient applications.
+- 🤝 Actively looking for exciting **Full-Stack Project collaborations** that challenge and expand my skills.
+- 👨‍💻 Check out my repositories and contributions right here on [GitHub](https://github.com/samOhawk1).
+- 💬 Interested in discussions about **Backend Architecture, React, Go,** or **Java**? Let's connect!
+- 📫 Reach out to me directly at **sumitraturi02@gmail.com**.
+
+---
+
+### Connect with Me
+
+<p align="left">
+  <a href="https://x.com/Sumit_0_hawk" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sumit-raturi-85a284250/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/iamsumitraturi/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/u/THEDARKLORDLOVESAPPLES/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,react,spring,docker,html,css,git" alt="Languages and Tools" />
+</p>
+
+---
+
+### My Development Philosophy
+
+<p align="center">
+  I thrive on architecting **robust full-stack solutions** that don't just work, but truly shine. My passion lies in blending elegant design with powerful functionality, meticulously optimizing backend processes, and crafting pixel-perfect user interfaces. For me, code is more than just instructions; it's a craft.
 </p>
 
 <p align="center">
-  <strong>💡 My Motto: “Refactor till it sings.”</strong>
+  <strong>💡 My Guiding Principle: “Refactor till it sings.”</strong>
 </p>
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samOhawk1&show_icons=true&locale=en&layout=compact" alt="samOhawk1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samOhawk1&show_icons=true&locale=en" alt="samOhawk1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samOhawk1&" alt="samOhawk1" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samOhawk1&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=samOhawk1&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samOhawk1&theme=dark" alt="GitHub Streak" />
+</p>
