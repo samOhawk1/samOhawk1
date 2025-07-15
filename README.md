@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOh6/giphy.gif" alt="Coding GIF" width="100%" height="200">
-</p>
-
 <h1 align="center">Hey there! I'm Sumit Raturi 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | Building Innovations from India 🇮🇳</h3>
 
@@ -24,7 +20,7 @@
 - 🤝 Actively looking for exciting **Full-Stack Project collaborations** that challenge and expand my skills.
 - 👨‍💻 Check out my repositories and contributions right here on [GitHub](https://github.com/samOhawk1).
 - 💬 Interested in discussions about **Backend Architecture, React, Go,** or **Java**? Let's connect!
-- 📫 Reach out to me directly at **sumitraturi02@gmail.com**.
+- 📫 Reach out to me directly at **sumitraturi101@gmail.com**.
 
 ---
 
