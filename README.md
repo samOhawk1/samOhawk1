@@ -13,14 +13,15 @@
 
 ---
 
-### About Me 
+### About Me
 <img align="right" alt="Developer Illustration" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 Currently diving deeper into **Docker, React,** and **Spring Boot Microservices** to build scalable and efficient applications.
+- 🌱 I'm currently expanding my expertise, focusing on **Docker** and **Go (Golang)**.
+- 💪 Proficient in building robust applications with **Spring Boot** and crafting dynamic user interfaces with **React**.
 - 🤝 Actively looking for exciting **Full-Stack Project collaborations** that challenge and expand my skills.
-- 👨‍💻 Check out my repositories and contributions right here on [GitHub](https://github.com/samOhawk1).
+- 👨‍💻 Explore my repositories and contributions right here on [GitHub](https://github.com/samOhawk1).
 - 💬 Interested in discussions about **Backend Architecture, React, Go,** or **Java**? Let's connect!
-- 📫 Reach out to me directly at **sumitraturi101@gmail.com**.
+- 📫 Reach out to me directly at **sumitraturi02@gmail.com**.
 
 ---
 
@@ -46,7 +47,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,react,spring,docker,html,css,git" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,go,python,react,spring,docker,html,css,git" alt="Languages and Tools" />
 </p>
 
 ---
