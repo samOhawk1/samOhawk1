@@ -21,7 +21,7 @@
 - 🤝 Actively looking for exciting **Full-Stack Project collaborations** that challenge and expand my skills.
 - 👨‍💻 Explore my repositories and contributions right here on [GitHub](https://github.com/samOhawk1).
 - 💬 Interested in discussions about **Backend Architecture, React, Go,** or **Java**? Let's connect!
-- 📫 Reach out to me directly at **sumitraturi02@gmail.com**.
+- 📫 Reach out to me directly at **sumitraturi101@gmail.com**.
 
 ---
 
@@ -55,7 +55,7 @@
 ### My Development Philosophy
 
 <p align="center">
-  I thrive on architecting **robust full-stack solutions** that don't just work, but truly shine. My passion lies in blending elegant design with powerful functionality, meticulously optimizing backend processes, and crafting pixel-perfect user interfaces. For me, code is more than just instructions; it's a craft.
+  I thrive on architecting **robust full-stack solutions** that don't just work, but truly shine. My passion lies in blending elegant design with powerful functionality, meticulously optimizing backend processes, and crafting pixel-perfect user interfaces. 
 </p>
 
 <p align="center">
@@ -70,7 +70,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samOhawk1&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=samOhawk1&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samOhawk1&theme=dark" alt="GitHub Streak" />
 </p>
